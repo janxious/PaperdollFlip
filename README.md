@@ -4,7 +4,7 @@ PaperdollFlip is a very small and simple mod which just flips the display of the
 
 This is closer to how 'Mechs were depicted in CBT, and some people find it more intuitive. YMMV!
 
-![alt text](https://i.imgur.com/pB3oPul.png "Paperdoll Flip")
+![Paperdoll Flipped](https://i.imgur.com/pB3oPul.png "Paperdoll Flip")
 
 
 ## Requirements

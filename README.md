@@ -4,6 +4,9 @@ PaperdollFlip is a very small and simple mod which just flips the display of the
 
 This is closer to how 'Mechs were depicted in CBT, and some people find it more intuitive. YMMV!
 
+![alt text](https://i.imgur.com/pB3oPul.png "Paperdoll Flip")
+
+
 ## Requirements
 * install [BattleTechModLoader](https://github.com/Mpstark/BattleTechModLoader/releases) using the [instructions here](https://github.com/Mpstark/BattleTechModLoader)
 * install [ModTek](https://github.com/Mpstark/ModTek/releases) using the [instructions here](https://github.com/Mpstark/ModTek)

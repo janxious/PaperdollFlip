@@ -6,7 +6,7 @@ namespace ArmorRepairDevTest
     class Logger
     {
 
-        public const string path = "mods/PaperdollFlip/Log.txt";
+        private static string path =>  $"{ArmorRepairDevTest.ModDirectory}/Log.txt";
 
         public Logger()
         {
